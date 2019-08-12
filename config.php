@@ -2,7 +2,7 @@
 
 return [
     'server'    => 'localhost',
-    'dbname'    => 'blog',
-    'dbuser'    => 'root',
-    'dbpass'    => '',
+    'dbname'    => 'aqjngkhpjd',
+    'dbuser'    => 'aqjngkhpjd',
+    'dbpass'    => 'FrcR2p6XG8',
 ];
