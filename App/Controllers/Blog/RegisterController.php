@@ -13,6 +13,7 @@ class RegisterController extends Controller
      */
     public function index()
     {
+        $loginModel = $this->load->model('Login');
         if ($loginModel->isLogged()) {
             return $this->url->redirectTo('/');
         }
